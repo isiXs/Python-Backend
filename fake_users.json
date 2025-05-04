@@ -1,0 +1,19 @@
+
+{
+    "users": [
+        {
+            "id": 4,
+            "name": "Pepper",
+            "surname": "Peppermina",
+            "age": 2,
+            "url": "http://pepper.com"
+        },
+        {
+            "id": 6,
+            "name": "Malia",
+            "surname": "Gruñona",
+            "age": 6,
+            "url": "http://malia.com"
+        }
+    ]
+}
